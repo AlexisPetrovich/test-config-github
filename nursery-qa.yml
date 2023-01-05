@@ -6,7 +6,7 @@ spring:
   r2dbc:
     url: r2dbc:mysql://localhost:3306/user-reactive?serverTimezone=UTC;DB_CLOSE_DELAY=-1
     username: root
-    password: root
+    password: falsepassword
     pool:
       max-size: 10
       max-acquire-time: 10s
