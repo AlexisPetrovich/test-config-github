@@ -1,5 +1,5 @@
 server:
-  port: 0
+  port: 8087
 hello: hello new world 27
 #r2dbc configuration mysql
 spring:
