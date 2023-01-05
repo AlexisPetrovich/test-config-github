@@ -4,7 +4,7 @@ hello: hello new world 27
 #r2dbc configuration mysql
 spring:
   r2dbc:
-    url: r2dbc:mysql://localhost:3306/user-reactive?serverTimezone=UTC;DB_CLOSE_DELAY=-1
+    url: r2dbc:mysql://localhost:3306/user-reactiveRRR?serverTimezone=UTC;DB_CLOSE_DELAY=-1
     username: root
     password: falsepassword
     pool:
