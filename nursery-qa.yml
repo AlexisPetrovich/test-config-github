@@ -1,3 +1,12 @@
 server:
-  port: 8087
-hello: hello update with push 11
+  port: 0
+hello: hello new world
+#r2dbc configuration mysql
+#spring:
+#  r2dbc:
+#    url: r2dbc:mysql://localhost:3306/user-reactive?serverTimezone=UTC;DB_CLOSE_DELAY=-1
+#    username: root
+#    password: root
+#    initialization-mode: always
+#    pool:
+#      max-size: 10
