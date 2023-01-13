@@ -1,6 +1,6 @@
 server:
   port: 8087
-hello: hello update with push 11
+hello: hello nursery
 #r2dbc configuration mysql
 spring:
   r2dbc:
